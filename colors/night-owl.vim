@@ -89,6 +89,11 @@ hi CursorLineNr guifg=#C5E4FD guibg=NONE
 hi CursorLine guibg=#01121F
 hi VertSplit guibg=#011627
 hi NonText guifg=#32374D
+hi netrwDir guifg=#82AAFF
+hi netrwPlain guifg=#FFCB8B
+hi Pmenu guibg=#32374D guifg=#82AAFF
+hi Visual guibg=#32374D
+
 
 
 "Typescript
