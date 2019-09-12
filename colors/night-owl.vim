@@ -70,6 +70,12 @@ hi jsDestructuringBraces guifg=#C792EA
 hi jsExportDefault guifg=#C792EA
 hi jsFuncBlock guifg=#D6DEEB gui=italic
 hi jsNull guifg=#FF5874 gui=italic
+hi jsConditional guifg=#C792EA gui=italic
+hi jsException guifg=#C792EA gui=italic
+hi jsonKeyword guifg=#7FDBCA
+hi jsonString guifg=#C792EA
+hi jsLabel guifg=#C792EA
+
 
 "vim
 hi vimMap guifg=#C792EA gui=italic
@@ -93,7 +99,14 @@ hi netrwDir guifg=#82AAFF
 hi netrwPlain guifg=#FFCB8B
 hi Pmenu guibg=#32374D guifg=#82AAFF
 hi Visual guibg=#32374D
-
+hi netrwPlain guifg=#C792EA
+hi netrwDir guifg=#FFCB8B gui=italic          
+hi Search guifg=Black guibg=#82AAFF
+hi DiffAdd guibg=#2A4138
+hi DiffChange guibg=#172D30
+hi DiffDelete guibg=#31232F guifg=#31232F
+hi DiffText guibg=#31232F 
+hi VertSplit guibg=NONE gui=NONE guifg=#FFCB8B
 
 
 "Typescript
@@ -135,4 +148,17 @@ hi typescriptObjectColon guifg=#7FDBCA
 hi typescriptTernaryOp guifg=#D6DEEB
 hi typescriptConditional guifg=#C792EA gui=italic
 hi typescriptConditionalElse guifg=C792EA gui=italic
+hi typescriptBOM guifg=#FF5874
+hi typescriptFuncName guifg=#82AAFF gui=italic
+
+
+
+"ReasonML
+hi rustStorage guifg=#C792EA gui=italic
+hi rustEnumVariant guifg=#FFCB8B 
+hi rustModPath guifg=#FFCB8B
+hi rustString guifg=#82AAFF
+hi rustType guifg=#D6DEEB
+hi rustOperator guifg=#7FDBCA
+
 
