@@ -147,7 +147,7 @@ hi typescriptTypeReference guifg=#FFCB8B
 hi typescriptObjectColon guifg=#7FDBCA
 hi typescriptTernaryOp guifg=#D6DEEB
 hi typescriptConditional guifg=#C792EA gui=italic
-hi typescriptConditionalElse guifg=C792EA gui=italic
+hi typescriptConditionalElse guifg=#C792EA gui=italic
 hi typescriptBOM guifg=#FF5874
 hi typescriptFuncName guifg=#82AAFF gui=italic
 
